@@ -39,10 +39,7 @@ a {
 
 hr {
     border-color: #66bfbf;
-    border-style: none;
-    border-top-style: dotted;
-    border-width: 5px;
-    width: 5%;
+    width: 10%;
     margin: 100px auto;
   }
 
